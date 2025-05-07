@@ -2,7 +2,7 @@
 This repository contains information about Quem Matou Meus Cachos – an iPhone app made in SpriteKit, using Xcode.<br>
 
 ### About
-CareBeep was designed and developed to help girls going through hair transition through a games. 
+Quem Matou Meus Cachos was designed and developed to help girls going through hair transition through a games. 
 In this game, the player follows the journey of Dandara, a teenager who faces the challenges of hair transition. The goal of this game is for Dandara to discover who "killed her curls", collecting all the memories scattered throughout a maze full of challenges, bringing reflections about herself and everything she went through in her process of making hair easier.<br>
 <br>
 
