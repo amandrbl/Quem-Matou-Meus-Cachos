@@ -1,21 +1,19 @@
 # Quem-Matou-Meus-Cachos 💜
-This repository contains information about Quem Matou Meus Cachos – an iPhone app made in SpriteKit, using Xcode.<br>
 
-### About
-Quem Matou Meus Cachos was designed and developed to help girls going through hair transition through a games. 
-In this game, the player follows the journey of Dandara, a teenager who faces the challenges of hair transition. The goal of this game is for Dandara to discover who "killed her curls", collecting all the memories scattered throughout a maze full of challenges, bringing reflections about herself and everything she went through in her process of making hair easier.<br>
-<br>
+### 👾 Sobre o jogo 
+- Neste repositório, você irá conhecer um pouco mais sobre o jogo Quem Matou Meus Cachos? – um jogo para iPhone, criado com Swift e SpriteKit, utilizando o Xcode como IDE.
+- Quem Matou Meus Cachos foi desenvolvido para ajudar meninas em transição capilar por meio de um jogo.
+- Neste jogo, o jogador acompanha a jornada de Dandara, uma adolescente que enfrenta os desafios da transição capilar. O objetivo é descobrir quem "matou seus cachos", coletando memórias espalhadas por um labirinto repleto de desafios, o que a leva a refletir sobre si mesma e sobre tudo o que passou durante o processo de amaciamento dos cabelos.
+- Desenvolvido em equipe.
 
-## Tools
+## 🛠️ Ferramentas
+- Swift
+- SpriteKit
+- AVFoundation
 - Xcode
 - Figma
 
-## Development Skills
-- SpriteKit
-- Product Development
-- Project Management
-
-## Screenshots
+##  📱 Telas do jogo
 <p align="center">
 <img alt="App Icon" width="270" height="250" src="https://github.com/user-attachments/assets/61dec234-deb5-430c-917b-56becae10aec"></p>
 <p align="center">
@@ -27,8 +25,9 @@ In this game, the player follows the journey of Dandara, a teenager who faces th
 <img alt="Project Screenshot" width="250" src="https://github.com/user-attachments/assets/c22853b8-1e02-42e5-a83d-5c61eea26097"></p>
 <br>
 
-## Authors
-Amanda dos Santos Rabelo<br>
-Ana Beatriz Seixas<br>
-Isadora Bastos<br>
-Juliana Magalhães<br>
+## 🤝 Equipe de Desenvolvimento
+- Amanda Rabelo (dev)
+- Ana Beatriz Seixas (dev)
+- Juliana Magalhães (dev)
+- Isadora Farias (designer)
+
