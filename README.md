@@ -1,6 +1,6 @@
 # Quem-Matou-Meus-Cachos 💜
 
-### 👾 Sobre o jogo 
+## 👾 Sobre o jogo 
 - Neste repositório, você irá conhecer um pouco mais sobre o jogo Quem Matou Meus Cachos? – um jogo para iPhone, criado com Swift e SpriteKit, utilizando o Xcode como IDE.
 - Quem Matou Meus Cachos foi desenvolvido para ajudar meninas em transição capilar por meio de um jogo.
 - Neste jogo, o jogador acompanha a jornada de Dandara, uma adolescente que enfrenta os desafios da transição capilar. O objetivo é descobrir quem "matou seus cachos", coletando memórias espalhadas por um labirinto repleto de desafios, o que a leva a refletir sobre si mesma e sobre tudo o que passou durante o processo de amaciamento dos cabelos.
